@@ -6,7 +6,7 @@ materials of this exam.
 
 | Acronym | Term | Definition |
 |---------|------|------------|
-| 3DES | Triple Digital Encryption Standard |  |
+| 3DES | Triple Digital Encryption Standard | A block cipher where DES is applied three times to each block |
 | AAA | Authentication, Authorization, and Accounting |  |
 | ABAC | Attribute-based Access Control |  |
 | ACL | Access Control List |  |
@@ -37,7 +37,7 @@ materials of this exam.
 | CAPTCHA | Completely Automated Public Turing Test to Tell Computers and Humans Apart |  |
 | CAR | Corrective Action Report |  |
 | CASB | Cloud Access Security Broker |  |
-| CBC | Cipher Block Chaining |  |
+| CBC | Cipher Block Chaining | A block cipher mode of operation where the input plaintext of one block is XOR'd with the ciphertext of the previous block, creating a chain |
 | CCMP | Counter-Mode/CBC-Mac Protocol |  |
 | CCTV | Closed-circuit Television |  |
 | CER | Certificate |  |
@@ -281,9 +281,9 @@ materials of this exam.
 | SSO | Single Sign-on |  |
 | SSP | System Security Plan |  |
 | STP | Shielded Twisted Pair |  |
-| TACACS+ Terminal Access Controller Access Control System Plus |  |
+| TACACS+ | Terminal Access Controller Access Control System Plus |  |
 | TCO | Total Cost of Ownership |  |
-| TCP/IP Transmission Control Protocol/Internet Protocol |  |
+| TCP/IP | Transmission Control Protocol/Internet Protocol |  |
 | TGT | Ticket Granting Ticket |  |
 | TKIP | Temporal Key Integrity Protocol |  |
 | TLS | Transport Layer Security |  |
@@ -298,7 +298,7 @@ materials of this exam.
 | URI | Uniform Resource Identifier |  |
 | URL | Universal Resource Locator |  |
 | USB | Universal Serial Bus |  |
-| USB-OTG USB On The Go |  |
+| USB-OTG | USB On The Go |  |
 | UTM | Unified Threat Management |  |
 | UTP | Unshielded Twisted Pair |  |
 | VDE | Virtual Desktop Environment |  |
