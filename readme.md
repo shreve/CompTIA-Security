@@ -25,6 +25,7 @@ The test covers the following areas:
 * [All in One Security+ Guide](https://www.amazon.com/CompTIA-Security-Guide-Fifth-SY0-501/dp/1260019322) I like this book because it closely follows the exam objectives.
 * [Cybrary](https://www.cybrary.it/)
 * [25 Question Practice Exam](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests)
+* [Academic discount on exam voucher](https://academic-store.comptia.org/p/ACADCompTIAS)
 
 ## Notes on Studying
 

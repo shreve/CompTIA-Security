@@ -7,14 +7,14 @@ materials of this exam.
 | Acronym | Term | Definition |
 |---------|------|------------|
 | 3DES | Triple Digital Encryption Standard | A block cipher where DES is applied three times to each block |
-| AAA | Authentication, Authorization, and Accounting |  |
+| AAA | Authentication, Authorization, and Accounting | Three aspects of user access: Prove who they are, determine what they should be able to do, and record a log of all their actions |
 | ABAC | Attribute-based Access Control |  |
 | ACL | Access Control List |  |
 | AES | Advanced Encryption Standard |  |
 | AES256 | Advanced Encryption Standards 256bit |  |
 | AH | Authentication Header |  |
 | ALE | Annualized Loss Expectancy |  |
-| AP | Access Point |  |
+| AP | Access Point | A network device that allows wireless clients to connect to the network |
 | API | Application Programming Interface |  |
 | APT | Advanced Persistent Threat |  |
 | ARO | Annualized Rate of Occurrence |  |
@@ -31,7 +31,7 @@ materials of this exam.
 | BPA | Business Partners Agreement |  |
 | BPDU | Bridge Protocol Data Unit |  |
 | BYOD | Bring Your Own Device |  |
-| CA | Certificate Authority |  |
+| CA | Certificate Authority | A trusted organization that issues certificates. A CA enables you to trust the public key of a 3rd party website. |
 | CAC | Common Access Card |  |
 | CAN | Controller Area Network |  |
 | CAPTCHA | Completely Automated Public Turing Test to Tell Computers and Humans Apart |  |
